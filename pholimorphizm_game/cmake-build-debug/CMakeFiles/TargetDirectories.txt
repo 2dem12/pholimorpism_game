@@ -1,0 +1,5 @@
+/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/pholimorphizm_game.dir
+/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/pholimorphizm_game_autogen_timestamp_deps.dir
+/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/pholimorphizm_game_autogen.dir

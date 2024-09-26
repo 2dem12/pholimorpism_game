@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/pholimorphizm_game_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game",
+	"CMAKE_SOURCE_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/pholimorphizm_game_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/hero.png",
+		"/Users/damir/CLionProjects/pholimorphizm_game/mp3/AAA.mp3",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/blood(2).gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/banana-cheerer.gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/red_dragon.png",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/shot(2).gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/cry_frog.gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/blood(1).gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/shot(1).gif",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/green_dragon.png",
+		"/Users/damir/CLionProjects/pholimorphizm_game/img/black_dragon.png"
+	],
+	"LOCK_FILE" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/pholimorphizm_game_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/damir/CLionProjects/pholimorphizm_game/cmake-build-debug/CMakeFiles/pholimorphizm_game_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/damir/CLionProjects/pholimorphizm_game/resources.qrc",
+	"VERBOSITY" : 0
+}

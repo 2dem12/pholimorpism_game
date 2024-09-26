@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="green_dragon.png">img/green_dragon.png</file>
+        <file alias="red_dragon.png">img/red_dragon.png</file>
+        <file alias="black_dragon.png">img/black_dragon.png</file>
+        <file alias="hero.png">img/hero.png</file>
+        <file alias="shot(1).gif">img/shot(1).gif</file>
+        <file alias="shot(2).gif">img/shot(2).gif</file>
+        <file alias="blood(1).gif">img/blood(1).gif</file>
+        <file alias="blood(2).gif">img/blood(2).gif</file>
+        <file alias="banana-cheerer.gif">img/banana-cheerer.gif</file>
+        <file alias="cry_frog.gif">img/cry_frog.gif</file>
+        <file alias="AAA.mp3">mp3/AAA.mp3</file>
+    </qresource>
+</RCC>
+
