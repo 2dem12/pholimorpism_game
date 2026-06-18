@@ -84,12 +84,12 @@ int main(int argc, char* argv[])
                 hero.attack(*dragon);
                 hero_shot(gifLabel2);
                 show_blood(gifLabel, 'd');
-                QProcess::startDetached("afplay", QStringList() << "../mp3/AAA.mp3");
+                QProcess::startDetached("afplay", QStringList() << "mp3/AAA.mp3");
             } else if (dragon->is_alive() && hero.is_alive() && lineEdit->text().toStdString().size() != 0) {
                 dragon->attack(hero);
                 dragon_shot(gifLabel2);
                 show_blood(gifLabel, 'h');
-                QProcess::startDetached("afplay", QStringList() << "../mp3/AAA.mp3");
+                QProcess::startDetached("afplay", QStringList() << "mp3/AAA.mp3");
             }
             if (lineEdit->text().toStdString().size() != 0) que = dragon->question(rand()%15 + 1, rand()%15 + 1);
             lineEdit->clear();
